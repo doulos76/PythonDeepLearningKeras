@@ -2,5 +2,5 @@
 
 1. Keras
 
-* [Keras 주요 특징](/MDFiles/KerasKeyFeatures.md)
+* [Keras 주요 특징](/PythonDeepLearningKeras/MDFiles/KerasKeyFeatures.md)
 * Keras 기본 개념
